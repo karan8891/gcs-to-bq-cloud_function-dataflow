@@ -5,4 +5,7 @@ Steps:</br></br>
 -
 * Using chat GPT to generate user data as csv file.
 + Creation of buckets for temporary files, metadata, and user data.
-+
++ Creation of Big Query dataset and table.
++ Creating a Dataflow job using 'Text file Cloud Storage to Big Query.
++ Testing the job. (Screenshot attached)
++ To automate the entire process, we have created a cloud function which triggers when the data is loaded in cloud storage.
