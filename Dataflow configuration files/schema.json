@@ -1,0 +1,40 @@
+
+{
+    "BigQuery Schema": [{
+      "name": "id",
+      "type": "INTEGER"
+     },
+     {
+      "name": "first_name",
+      "type": "STRING"
+     },
+     {
+      "name": "last_name",
+      "type": "STRING"
+     },
+     {
+      "name": "email",
+      "type": "STRING"
+     },
+     {
+      "name": "phone_number",
+      "type": "INTEGER"
+     },
+     {
+        "name": "city",
+        "type": "STRING"
+       },
+       {
+        "name": "state",
+        "type": "STRING"
+       },
+       {
+        "name": "country",
+        "type": "STRING"
+       },
+       {
+        "name": "zipcode",
+        "type": "INTEGER"
+       }
+    ]
+   }
