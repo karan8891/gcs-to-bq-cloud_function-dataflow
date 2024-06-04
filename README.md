@@ -3,5 +3,6 @@ In thisproject we showcase the process of automating the transfer of data from G
 
 Steps:</br></br>
 -
-*
+*Using chat GPT to generate user data as csv file.
++Creation of buckets for temporary files, metadata, and user data.
 +
